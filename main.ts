@@ -27,6 +27,7 @@ app.get('/', c => {
         </label>
         <input type="submit" value="Download" />
       </form>
+      <a href="https://github.com/nakasyou/crx-as-zip-dler">GitHub</a>
     </body>
   </html>`)
 })
